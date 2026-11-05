@@ -17,7 +17,8 @@
     <td width="50%" valign="top">
       <h3>精选作品</h3>
       <ul>
-        <li><strong><a href="https://github.com/zseissol-debug/video-clipper-obsidian">视频文案入库</a></strong> — 将视频与播客转写整理为 Markdown，并按规则归档到 Obsidian。Chrome/Edge 扩展；ASR 服务由使用者自行配置。公开版本：v0.3.0。</li>
+        <li><strong><a href="https://github.com/zseissol-debug/video-clipper-obsidian">视频文案入库</a></strong> — 将视频与播客转写整理为 Markdown，并归档到 Obsidian；转写服务由使用者自行配置。</li>
+        <li><strong><a href="https://github.com/zseissol-debug/ai-pm-toolkit">AI PM Toolkit</a></strong> — 产品需求整理、方案探索和 AI 编码验收工作流 Skills。</li>
       </ul>
     </td>
   </tr>
